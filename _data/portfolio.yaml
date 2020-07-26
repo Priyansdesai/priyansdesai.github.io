@@ -1,7 +1,7 @@
 data:
-  - name: Exlist
+  - name: Gitler
     url: "https://github.com/blackode/exlist"
-    class: "elixir expack"
+    class: "course-proj"
     img: "/images/portfolio/exlist.png"
     desc: >
       Extended List Library
