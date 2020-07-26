@@ -1,0 +1,11 @@
+- title: priyansdesai@berkeley.edu
+  link: 'mailto: priyansdesai@berkeley.edu'
+  icon-class: "fa fa-envelope"
+
+- title: "9999333582"
+  link: 'phone: 9999333582'
+  icon-class: "fa fa-phone"
+
+- title: priyansdesai.github.io
+  link: 'https://priyansdesai.github.io'
+  icon-class: "fa fa-globe"

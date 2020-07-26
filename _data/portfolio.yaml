@@ -1,0 +1,7 @@
+data:
+  - name: Exlist
+    url: "https://github.com/blackode/exlist"
+    class: "elixir expack"
+    img: "/images/portfolio/exlist.png"
+    desc: >
+      Extended List Library
