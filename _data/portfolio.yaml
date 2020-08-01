@@ -1,7 +1,11 @@
 data:
-  - name: Gitler
-    url: "https://github.com/blackode/exlist"
+  - name: Gitlet
+    url: "https://github.com/priyansdesai"
     class: "course-proj"
     img: "/images/portfolio/exlist.png"
     desc: >
-      Extended List Library
+      Built a min-version of Git version control system in Java. Implemented almost all features like add, commit, push, fetch, pull, merge etc.
+
+  - name: Enigma
+    url: "https://github.com/priyansdesai"
+
