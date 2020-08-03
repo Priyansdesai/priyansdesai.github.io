@@ -30,6 +30,7 @@ data:
   - name: SuitableFind
     url: "https://github.com/Priyansdesai/SuitableFind"
     class: "personal-proj"
+    img: "/images/portfolio/suitable.png"
     desc: >
       Developed an online-course finder for Computer Science upper division courses at Berkeley based on interests, previous classes taken and helping them arrange into a schedule. 
 
@@ -50,11 +51,41 @@ data:
   - name: LinkedIn Webscraper
     url: "https://github.com/Priyansdesai/linkedin_scraper"
     class: "scripts"
+    img: "/images/portfolio/linkedin.jpg"
     desc: >
       A Python script which obtains work experiences, skills etc about a Person using a profile link obtained from everyone who has commented on a particular post
 
   - name: COVID-19 Data Exploration
     url: "https://github.com/Priyansdesai/COVID-19-Dataset-Exploration---Regression-and-Classification-Models"
     class: "data-sci"
+    img: "/images/portfolio/data_science.png"
     desc: >
       Predicted increase in deaths per county and per state using COVID-19 data in addition to classifying various countries into different degrees of transmission level.
+
+  - name: Class Lecture-speed Tracker
+    url: "https://github.com/Priyansdesai/EE16B-Speed-Tracker"
+    class: "personal-proj"
+    img: "/images/portfolio/speed_tracker.png"
+    desc: >
+      Built an online lecture speed tracker for a Berkeley course using Flask and Firebase. Developed both a student facing and instructor facing tool. 
+
+  - name: YouTube Latest Video Filter
+    url: "https://github.com/Priyansdesai/fampay-youtube"
+    class: "personal-proj"
+    img: "/images/portfolio/youtube.png"
+    desc: >
+      A service created using YouTube API which updates every 10 seconds with new updated videos for a certain topic.
+
+  - name: Demos for Discrete Mathematics concepts
+    url: "https://github.com/Priyansdesai/70_Programming_Demos"
+    class: personal-proj
+    img: "/images/portfolio/70.png"
+    desc: >
+      Developed programming samples of concepts of theoretical Computer Science concepts taught in Berkeley course CS 70 - Discrete Mathematics & Probability
+
+  - name: "Robotic Voice Controlled Car"
+    url: "https://drive.google.com/file/d/1OVVo6mkeeVyITskoEXD_u_I3zCK0RfwR/view"
+    class: "ee-proj"
+    img: "/images/portfolio/car.jpg"
+    desc: >
+      Built a voice controlled car from scratch using SVD and PCA for voice classification, eigenvalue placement for implementing control in the car as well as using System ID for estimating a linear model for the car.

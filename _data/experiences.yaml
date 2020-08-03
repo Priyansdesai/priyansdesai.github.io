@@ -3,6 +3,7 @@
   company: Scanta Inc. 
   location: San Francisco, California
   description: >
+      Scanta is a company looking into building software to protect Machine Learning systems. I have been building an entity recognition engine for extracting relevant entities from text along with building a deviation engine which helps point out the changing nature of certain entities. In addition, I have been involved in building a text extraction tool out of scanned PDF files and images and integrate the entity extraction service with that. Moreover, my task also has been with the DevOps team for building an infrastructure for chatbot conversations based on the Kafka data streaming API. I will also be working on the Outlier Detection infrastructure.
                 
     
 
@@ -11,6 +12,7 @@
   company: Doctor Insta
   location: Gurgaon, India
   description: >
+      Doctor Insta is telemedicine company, providing online consultations to patients. I was involved with building and upgrading an existing business portal, optimizing its queries, upgrading the UI, rearranging the services, making queries faster and reducing server resources. At the end, I was able to reduce use of server resources by about 70% and optimize loading speed by about 30%. I was also part of completing other feature requests for the company's internal portals. Moreover, I also built an automated testing infrastructure for various portals, for mainly testing correct data and UI using Selenium webdrivers. 
     
 
 - title: Undergraduate Researcher 
@@ -18,13 +20,28 @@
   company: Berkeley RISE Lab
   location: Berkeley, California 
   description: >
-    
+      I will be starting to work on a research project started by Rohan Bavishi and Professor Kaushik Sen (UC Berkeley EECS Department) in the field of Programming Systems, where the project is called AutoPandas, which is based on building AutoML tools.
 
+- title: EECS 16B Lab Academic Student Employee 
+  period: January 2020 - Present
+  company: UC Berkeley Department of Electrical Engineering & Computer Sciences
+  location: Berkeley, California
+  description: >
+    I am working to assist students in lab for an introductory EECS course, called 16B titled Designing Information Devices and Systems II, wherein building a voice-controlled Robotic car is the fundamental portion of the lab. I have also been involved in handling other logistics related to the lab such as providing technical support as the labs are moved online due to COVID-19. Currently, assisting students in completing these lab requirements virtually. 
 - title: Web Developer
   period: August 2019 - May 2020
   company: UC Berkeley Division of Computing, Data & Society 
   location: Berkeley, California
   description: >
+      I was responsible for building a website for the Human Contexts & Ethics team for the division of Data Science at UC Berkeley. 
+
+- title: Data Science Intern
+  period: August 2019 - December 2019
+  company: Elin.ai 
+  location: Berkeley, California
+  description: >
+    I worked on building a sentiment analyzer for predicting employee sentiments in a particular company and allowing them to improve their work culture by this service.
+
     
 
 
