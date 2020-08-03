@@ -16,7 +16,7 @@ data:
   - name: Tablut
     url: "https://github.com/priyansdesai"
     class: "course-proj"
-    img: "/images/portfolio/Tablut.jpg"
+    img: "/images/portfolio/tablut.jpg"
     desc: >
       Developed a Nordic game, similar to checkers in Java along with an advanced GUI. This game also involved building an automated player (AI) through the technique of Alpha-beta pruning. 
 
