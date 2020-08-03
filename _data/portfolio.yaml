@@ -2,10 +2,59 @@ data:
   - name: Gitlet
     url: "https://github.com/priyansdesai"
     class: "course-proj"
-    img: "/images/portfolio/exlist.png"
+    img: "/images/portfolio/git.png"
     desc: >
       Built a min-version of Git version control system in Java. Implemented almost all features like add, commit, push, fetch, pull, merge etc.
 
   - name: Enigma
     url: "https://github.com/priyansdesai"
+    class: "course-proj"
+    img: "/images/portfolio/enigma.jpg"
+    desc: >
+      Developed a working software prototype of the  20th century German Enigma Encryption Machine from scratch in Java, as an application of Object Oriented Programming concepts. 
 
+  - name: Tablut
+    url: "https://github.com/priyansdesai"
+    class: "course-proj"
+    img: "/images/portfolio/Tablut.jpg"
+    desc: >
+      Developed a Nordic game, similar to checkers in Java along with an advanced GUI. This game also involved building an automated player (AI) through the technique of Alpha-beta pruning. 
+
+  - name: Signpost
+    url: "https://github.com/priyansdesai"
+    class: "course-proj"
+    img: "/images/portfolio/signpost.png"
+    desc: >
+      Developed a game in Java, similar to Chess. 
+
+  - name: SuitableFind
+    url: "https://github.com/Priyansdesai/SuitableFind"
+    class: "personal-proj"
+    desc: >
+      Developed an online-course finder for Computer Science upper division courses at Berkeley based on interests, previous classes taken and helping them arrange into a schedule. 
+
+  - name: BearKeeper
+    url: "https://github.com/ja5087/react-decal-project-bearkeeper"
+    class: "personal-proj"
+    img: "/images/portfolio/bearkeepr.png"
+    desc: >
+      Developed a task scheduler, specifically designed for Berkeley students in React
+      
+  - name: Clubs DeCal Communication System
+    url: "https://github.com/Priyansdesai/coding_bulls"
+    class: "personal-proj"
+    img: "/images/portfolio/clubs.png"
+    desc: >
+      Developed a communication system using the Ruby on Rails framework for UC Berkeley clubs and student organizations. 
+
+  - name: LinkedIn Webscraper
+    url: "https://github.com/Priyansdesai/linkedin_scraper"
+    class: "scripts"
+    desc: >
+      A Python script which obtains work experiences, skills etc about a Person using a profile link obtained from everyone who has commented on a particular post
+
+  - name: COVID-19 Data Exploration
+    url: "https://github.com/Priyansdesai/COVID-19-Dataset-Exploration---Regression-and-Classification-Models"
+    class: "data-sci"
+    desc: >
+      Predicted increase in deaths per county and per state using COVID-19 data in addition to classifying various countries into different degrees of transmission level.
