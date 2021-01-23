@@ -15,19 +15,12 @@
       Doctor Insta is telemedicine company, providing online consultations to patients. I was involved with building and upgrading an existing business portal, optimizing its queries, upgrading the UI, rearranging the services, making queries faster and reducing server resources. At the end, I was able to reduce use of server resources by about 70% and optimize loading speed by about 30%. I was also part of completing other feature requests for the company's internal portals. Moreover, I also built an automated testing infrastructure for various portals, for mainly testing correct data and UI using Selenium webdrivers. 
     
 
-- title: Undergraduate Researcher 
-  period: July 2020 - Present
-  company: Berkeley RISE Lab
-  location: Berkeley, California 
-  description: >
-      I will be starting to work on a research project started by Rohan Bavishi and Professor Kaushik Sen (UC Berkeley EECS Department) in the field of Programming Systems, where the project is called AutoPandas, which is based on building AutoML tools.
-
-- title: EECS 16B Lab Academic Student Employee 
+- title: EECS 16B Lab Teaching Assistant 
   period: January 2020 - Present
   company: UC Berkeley Department of Electrical Engineering & Computer Sciences
   location: Berkeley, California
   description: >
-    I am working to assist students in lab for an introductory EECS course, called 16B titled Designing Information Devices and Systems II, wherein building a voice-controlled Robotic car is the fundamental portion of the lab. I have also been involved in handling other logistics related to the lab such as providing technical support as the labs are moved online due to COVID-19. Currently, assisting students in completing these lab requirements virtually. 
+    Assisting students in lab in helping them complete lab requirements for the course EECS 16B - building a ADC/DAC, a color organ consisting of various combinations of filters, and a final project - robotic voice controlled car (SIXT33N) which involves building a classification system based on SVD/PCA, introducing an open-loop and closed loop control using a linear approximation of the system and eigenvalue placement and a micboard system with filters for voice recognition. Heading a group of Lab Assistants (Lab ASEs) in helping students complete the above requirements. Conducting content review for labs before being released to students. Proctoring Exams and Grading exams and project reports. I will also be co-leading a Design Contest for a Robotic Car as part of an Extra Credit Project for the students of this class, sponsored by Texas Instruments. 
 - title: Web Developer
   period: August 2019 - May 2020
   company: UC Berkeley Division of Computing, Data & Society 
@@ -42,6 +35,18 @@
   description: >
     I worked on building a sentiment analyzer for predicting employee sentiments in a particular company and allowing them to improve their work culture by this service.
 
-    
+- title: Software Engineering Intern
+  period: February 2021 - Present
+  company: Calypso 
+  location: Berkeley, California
+  description: >
+    Backend team
+
+- title: Data 100 Tutor
+  period: January 2021 - Present
+  company: UC Berkeley Division of Computing, Data & Society
+  location: Berkeley, California
+  description:  >
+    Assisting Teaching Assistants in leading weekly discussions, where TAs and Tutors help students reinforce materials taught in class. In addition, I am also leading small-sections to help students reinforce concepts on weekly HWs as well as help students solve their doubts in Office Hours. I am also involved with grading of HWs. 
 
 
