@@ -1,11 +1,16 @@
 - title: Software Engineering Intern
-  period: May 2020 - Present
+  period: June 2021 - Present
+  company: Bank of America
+  location: Remote
+  description: >
+    Working in the Fixed Income, Credit & Commodities Group under the Foreign Exchange (FX) team. 
+    
+- title: Software Engineering Intern
+  period: May 2020 - August 2021
   company: Scanta Inc. 
   location: San Francisco, California
   description: >
       Scanta is a company looking into building software to protect Machine Learning systems. I have been building an entity recognition engine for extracting relevant entities from text along with building a deviation engine which helps point out the changing nature of certain entities. In addition, I have been involved in building a text extraction tool out of scanned PDF files and images and integrate the entity extraction service with that. Moreover, my task also has been with the DevOps team for building an infrastructure for chatbot conversations based on the Kafka data streaming API. I will also be working on the Outlier Detection infrastructure.
-                
-    
 
 - title: Software Engineering Intern 
   period: May 2019 - August 2019
@@ -16,7 +21,7 @@
     
 
 - title: Undergraduate Researcher 
-  period: July 2020 - Present
+  period: July 2020 - December 2020
   company: Berkeley RISE Lab
   location: Berkeley, California 
   description: >
